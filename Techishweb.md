@@ -1,9 +1,5 @@
 # 📌 Techishweb  
 
-[![Website](https://img.shields.io/badge/Visit-Techishweb.com-blue?style=flat&logo=google-chrome)](https://techishweb.com)  
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Techishweb.repo)](#)  
-[![GitHub stars](https://img.shields.io/github/stars/Techishweb?style=social)](#)  
-
 **Techishweb.com** is a digital marketing website focused on **SEO, content optimization, and web strategies**.  
 We share the latest resources, guides, and tools to help businesses and individuals grow their online presence.  
 
@@ -20,9 +16,6 @@ We share the latest resources, guides, and tools to help businesses and individu
 
 ## 🔹 About Techishweb
 Techishweb is dedicated to providing practical solutions for **digital marketers, bloggers, and business owners** who want to improve their online visibility and brand awareness.  
-
-🌐 **Visit us at:** [Techishweb.com](https://techishweb.com)  
-# 📌 Techishweb  
 
 [![Website](https://img.shields.io/badge/Visit-Techishweb.com-blue?style=for-the-badge&logo=google-chrome)](https://techishweb.com)  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Techishweb.repo)  
