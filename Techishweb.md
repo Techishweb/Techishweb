@@ -1,7 +1,7 @@
 # 📌 Techishweb  
 
 **Techishweb.com** is a digital marketing website focused on **SEO, content optimization, and web strategies**.  
-We share the latest resources, guides, and tools to help businesses and individuals grow their online presence.  
+We share the latest resources, guides, and tools to help businesses and individuals grow their online presence. 
 
 ---
 
